@@ -1,0 +1,25 @@
+This is the instruction document to run the reviews bot.
+
+1. Double click main.exe file to run the bot. With S icon.This is for Windows OS.
+
+2. Always give link with reviews in it, otherwise no reviews will generate error. Give answer as it asks.
+
+3. It is designed to give first 1000 reviews in the link, 
+   we can do more but it will take more time to scrape.
+
+4. after comleting bot will generate review.docx file. all data will be there.
+
+5. Added 2 sample files for referance, on pubg and linkedin first 100 reviews of pubg and 1000 reviews of linkedin.
+
+6. ALWAYS rename output file with the link of app after completion of scraping of bot,
+   for example reviews.docx --> linkedin_reviews.docs OR reviews.docs --> pubg.docx
+
+7. If you failed to rename the output file next scraping will be overwritten on same file.
+
+8. If you have MacOS then contact developer to share screen and deploy it on your system. 
+
+Developer's contact whatsapp. +923312378492
+Feel free to contact me with any queries. 
+
+Thanks
+Enjoy the scraping!!!!
